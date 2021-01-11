@@ -150,8 +150,8 @@ hr {
 }
 
 .login .forms-l input:focus {
-    transition: .8s all ease-in-out;
-    -webkit-transition: .8s all ease-in-out;
+    transition: .3s all ease-in-out;
+    -webkit-transition: .3s all ease-in-out;
     /* transform: translate(0, -20px); */
     padding: 0 0 14px 0 !important;
 }
